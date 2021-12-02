@@ -1,1 +1,1 @@
-Here basic bfs, dfs and their applications are covered
+**Here basic bfs, dfs and their applications are covered**
